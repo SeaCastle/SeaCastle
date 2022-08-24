@@ -1,4 +1,4 @@
-Hello I'm SeaCastle and currently interested in many languages (C++, C#, Dart[Flutter], Rust, etc). I'm also spending most of my free time learning 日本語 (Japanese). My strongest languages are C++ and C#.
+Hello I'm SeaCastle and currently interested in many languages (C++, C#, JavaScript, Rust, etc). I'm also spending most of my free time learning 日本語 (Japanese). My strongest languages are C++ and C#.
 I am not a big fan of JavaScript but I want to try and get into React with TypeScript. I'm currently learning Flutter for phone app development
 while working as a software engineer writing C++ for embedded systems. I am also an undergraduate student at Utah State University. I'm looking to
 collaberate on anything that looks interesting to me (like that narrows it down..) but I really don't feel like I have much free time outside of personal projects,
